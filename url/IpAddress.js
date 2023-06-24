@@ -1,0 +1,1 @@
+export const liveIp = `localhost:8000/api/`
